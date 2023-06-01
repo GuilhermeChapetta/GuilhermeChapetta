@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GuilhermeChapetta
+- 👋 Hi, I’m @GuilhermeChapetta  
 - 👀 I’m interested in Front-End
-- 🌱 I’m currently learning Curso Web Design Completo: HTML5, CSS3 e JS + 5 Projetos | UDEMY
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning  Web Design Completo: HTML5, CSS3 e JS + 5 Projetos | Udemy
+- 💞️ I’m looking to collaborate on networking de iniciantes com garra que atingir a  tão sonhada primeira vaga.
 - 📫 How to reach me ...
 
 <!---
